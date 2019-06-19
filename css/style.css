@@ -349,9 +349,9 @@ header .navbar.navbar-light .nav-link.active {
     padding-left: 15px;
     -webkit-box-flex: 0;
     /*AQUI SE MUDA O TAMANHO DO FLEX*/
-    -ms-flex: 0 0 33%;
-    flex: 0 0 33%;
-    max-width: 33%;
+    -ms-flex: 0 0 30%;
+    flex: 0 0 30%;
+    max-width: 30%;
     padding: 30px;
     border-right: 1px solid rgba(255, 255, 255, 0.1);
   }
