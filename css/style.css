@@ -1442,9 +1442,11 @@ blockquote p {
 
 .level1{
   margin-left: 30px;
-  font-size: 1.5rem;
+  font-size: 1.2rem;
 }
 
 .level2{
-  margin-left: 60px;
+  margin-left: 90px;
+  font-size: 0.9em;
+  list-style-type: circle;
 }
