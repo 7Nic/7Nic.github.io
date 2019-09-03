@@ -1450,3 +1450,16 @@ blockquote p {
   font-size: 0.9em;
   list-style-type: circle;
 }
+
+footer .container .row #contact-info p {
+  margin-bottom: 0px;
+  margin-block-start: 0px;
+  margin-block-end: 0px;
+  text-align: left;
+}
+
+@media screen and (max-width:992px) {  
+  .overflow .container img {
+    display: none;
+  }
+}
